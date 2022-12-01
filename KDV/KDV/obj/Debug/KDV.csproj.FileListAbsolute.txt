@@ -1,0 +1,8 @@
+C:\Users\özhan\Desktop\KDV\KDV\bin\Debug\KDV.exe.config
+C:\Users\özhan\Desktop\KDV\KDV\bin\Debug\KDV.exe
+C:\Users\özhan\Desktop\KDV\KDV\bin\Debug\KDV.pdb
+C:\Users\özhan\Desktop\KDV\KDV\obj\Debug\KDV.csproj.AssemblyReference.cache
+C:\Users\özhan\Desktop\KDV\KDV\obj\Debug\KDV.csproj.SuggestedBindingRedirects.cache
+C:\Users\özhan\Desktop\KDV\KDV\obj\Debug\KDV.csproj.CoreCompileInputs.cache
+C:\Users\özhan\Desktop\KDV\KDV\obj\Debug\KDV.exe
+C:\Users\özhan\Desktop\KDV\KDV\obj\Debug\KDV.pdb
